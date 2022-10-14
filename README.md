@@ -51,7 +51,6 @@
  ![AddFriendFrame](https://user-images.githubusercontent.com/77719450/195791082-30fc16f6-0e5e-4797-bcb1-597f56ceaf3c.png)
  
  - 친구 추가 화면
-
  -----------------------
  - AddRoomFrame.java
 
@@ -59,6 +58,13 @@
 
  - 방 추가 화면
  -----------------------
+ - JavaObjClientView.java
+
+ ![JavaObjClientView](https://user-images.githubusercontent.com/77719450/195791791-02a56a2c-76dd-462a-a19c-1b896f2681f6.png)
+ 
+ - 채팅 화면
+ -----------------------
+
 ## Environment
  > Java version 17.0.1
  > 
