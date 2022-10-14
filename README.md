@@ -20,6 +20,8 @@
  ![시스템흐름도](https://user-images.githubusercontent.com/77719450/195786722-8f5c0984-51bf-45ae-904b-309886564454.PNG)
  -----------------------
  - 프로토콜 세부 정보
+
+
  |Protocol|용도/내용|방향|
 |------|---|---|
 |100|Login|Client -> Server|
