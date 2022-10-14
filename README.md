@@ -16,10 +16,10 @@
  #### 시스템 구성도
  ![시스템구성도](https://user-images.githubusercontent.com/77719450/195785934-6cbd1f4b-15dd-40cc-8e9b-01bcfe928e8e.PNG)
  -----------------------
- - 시스템 흐름도
+ #### 시스템 흐름도
  ![시스템흐름도](https://user-images.githubusercontent.com/77719450/195786722-8f5c0984-51bf-45ae-904b-309886564454.PNG)
  -----------------------
- - 프로토콜 세부 정보
+ #### 프로토콜 세부 정보
 
 
  |Protocol|용도/내용|방향|
@@ -33,7 +33,7 @@
 
  -----------------------
 ### PART 3. 화면 구성 및 세부 기능
- - JavaObjServer.java
+ #### JavaObjServer.java
  
  ![JavaObjServer](https://user-images.githubusercontent.com/77719450/195806504-e471f9b9-4a3b-4b48-8024-8addc277bfe9.png)
 
