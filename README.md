@@ -53,12 +53,21 @@
  ![AddFriendFrame](https://user-images.githubusercontent.com/77719450/195791082-30fc16f6-0e5e-4797-bcb1-597f56ceaf3c.png)
  
  - 친구 추가 화면
+ - 아이디를 입력해야만 '친구 추가' 버튼 활성화
+ - 친구 추가할 아이디 입력 후 '친구 추가' 버튼 클릭 시, 친구 추가된 상태에서 로비 화면(SecondFrame.java)으로 이동
  -----------------------
  - AddRoomFrame.java
 
  ![AddRoomFrame](https://user-images.githubusercontent.com/77719450/195791406-16519d21-3d1c-4185-bded-a31a2bc2df28.png)
 
  - 방 추가 화면
+ - 친구 목록 표시
+ - 친구 조회 가능
+ - 원하는 친구의 아이디를 키워드 검색 시, 실시간 결과
+ - 최소 1인 이상의 대화상대를 선택해야만 '확인' 버튼 활성화
+ - 대화상대 중복 선택 가능
+ - 대화상대 클릭 시, 하단에 선택한 대화상대 표시
+ - 친구 목록에서 원하는 친구 선택(중복 선택 가능) 후
  -----------------------
  - JavaObjClientView.java
 
