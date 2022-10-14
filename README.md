@@ -53,6 +53,12 @@
  - 친구 추가 화면
 
  -----------------------
+ - AddRoomFrame.java
+
+ ![AddRoomFrame](https://user-images.githubusercontent.com/77719450/195791406-16519d21-3d1c-4185-bded-a31a2bc2df28.png)
+
+ - 방 추가 화면
+ -----------------------
 ## Environment
  > Java version 17.0.1
  > 
