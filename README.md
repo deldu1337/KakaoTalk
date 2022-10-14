@@ -24,21 +24,27 @@
 |300|Image|Client -> Server -> Client|
 |400|Logout|Client -> Server|
 |500|Mouse Event|Client -> Server -> Client|
+
  -----------------------
 ### PART 3. 화면 구성 및 세부 기능
- - FirstFrame.java
- ![FirstFrame](https://user-images.githubusercontent.com/77719450/195063363-e1eab384-91fe-494a-835f-3a5c5d23b1ce.PNG)
+ - JavaObjClientMain.java
+![JavaObjClientMain](https://user-images.githubusercontent.com/77719450/195789360-c8e05c2d-4fbe-4eba-b80e-158f6d373243.png)
+
+ - 로그인 화면
+
  
- - 'ENTRANCE' 버튼 클릭 시, 초기 방 선택 화면(SecondFrame.java)으로 이동
+
  -----------------------
  - SecondFrame.java
- ![SecondFrame](https://user-images.githubusercontent.com/77719450/195063484-9b1ca027-3a1c-4b9e-a8af-8e92214cd541.PNG)
+ ![SecondFrame](https://user-images.githubusercontent.com/77719450/195789383-27b72374-1971-46c7-8273-e9da394873f6.png)
  
- - 사용 중인 방은 하늘 색으로 표시
- - 빈 방 버튼 클릭 시, 방 화면(ChooseRoom.java)으로 이동함과 동시에 로그인 화면(LoginFrame.java) 표시
- - 사용 중인 방 버튼 클릭 시, 방 화면(ChooseRoom.java)으로 이동
- - 비상구 버튼 클릭 시, 관리자 로그인 화면(AdminLoginFrame.java)으로 이동
+ - 로비 화면
+
+ 
+
  
  -----------------------
 ## Environment
- - 
+ > Java version 17.0.1
+ > 
+ > MySQL version 8.0.26
