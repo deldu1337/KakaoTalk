@@ -9,6 +9,7 @@
  - 로그인 및 로그아웃 기능
  - 친구 추가 기능
  - 채팅방 추가 기능
+
 -----------------------
 ### PART 2. 프로그램 구성
  #### 시스템 구성도
@@ -30,12 +31,11 @@
 |300|Image|Client -> Server -> Client|
 |400|Logout|Client -> Server|
 |500|Mouse Event|Client -> Server -> Client|
-
  -----------------------
 ### PART 3. 화면 구성 및 세부 기능
  #### JavaObjServer.java
  ![JavaObjServer](https://user-images.githubusercontent.com/77719450/195806504-e471f9b9-4a3b-4b48-8024-8addc277bfe9.png)
-
+ 
  - 서버 화면
  - 서버를 실행해야만 실시간 채팅 가능
  - 아이디, 채팅 내용, 프로토콜 등 클라이언트에서 받아오는 데이터들을 실시간으로 표시
