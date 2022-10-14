@@ -27,6 +27,14 @@
 
  -----------------------
 ### PART 3. 화면 구성 및 세부 기능
+ - JavaObjServer.java
+ 
+ ![JavaObjServer](https://user-images.githubusercontent.com/77719450/195806504-e471f9b9-4a3b-4b48-8024-8addc277bfe9.png)
+
+ - 서버 화면
+ - 서버를 실행해야만 실시간 채팅 가능
+ - 아이디, 채팅 내용, 프로토콜 등 클라이언트에서 받아오는 데이터들을 실시간으로 표시
+ -----------------------
  - JavaObjClientMain.java
  
 ![JavaObjClientMain](https://user-images.githubusercontent.com/77719450/195789360-c8e05c2d-4fbe-4eba-b80e-158f6d373243.png)
