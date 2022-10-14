@@ -24,9 +24,7 @@
 |300|Image|Client -> Server -> Client|
 |400|Logout|Client -> Server|
 |500|Mouse Event|Client -> Server -> Client|
-
- 
- 
+ -----------------------
 ### PART 3. 화면 구성 및 세부 기능
  - FirstFrame.java
  ![FirstFrame](https://user-images.githubusercontent.com/77719450/195063363-e1eab384-91fe-494a-835f-3a5c5d23b1ce.PNG)
