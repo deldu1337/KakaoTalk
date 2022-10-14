@@ -52,8 +52,8 @@
  -----------------------
  #### SecondFrame.java
  
- ![SecondFrame](https://user-images.githubusercontent.com/77719450/195789383-27b72374-1971-46c7-8273-e9da394873f6.png)
- 
+ ![SecondFrame](https://user-images.githubusercontent.com/77719450/195876604-8e00cb70-02cc-4446-8391-44ed05280831.png)
+
  - 로비 화면
  - 친구 목록 화면과 채팅 목록 화면을 좌측 상단에 각각 사람 모양, 말풍선 모양의 버튼으로 표시
  - 친구 목록 화면에서 사용자 이름과 친구 목록 표시
