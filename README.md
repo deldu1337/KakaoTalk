@@ -28,6 +28,7 @@
  -----------------------
 ### PART 3. 화면 구성 및 세부 기능
  - JavaObjClientMain.java
+ 
 ![JavaObjClientMain](https://user-images.githubusercontent.com/77719450/195789360-c8e05c2d-4fbe-4eba-b80e-158f6d373243.png)
 
  - 로그인 화면
@@ -36,6 +37,7 @@
 
  -----------------------
  - SecondFrame.java
+ 
  ![SecondFrame](https://user-images.githubusercontent.com/77719450/195789383-27b72374-1971-46c7-8273-e9da394873f6.png)
  
  - 로비 화면
